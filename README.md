@@ -1,6 +1,3 @@
-# aboutMe
-Brief introduction about me
-
 👋 Hi, I’m Demola Alaofin
 👀 I’m interested in Laravel, vueJs
 🌱 I’m currently learning ...
