@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Demola Alaofin
 
-## Technologies and Tools ðŸš€
+## Technologies and Tools
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
@@ -15,9 +15,7 @@
 ![](https://img.shields.io/badge/Platform-Heroku-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 
-
-                                
-
-## Currently Studying ðŸ“–
-- Docker & Kubernetes
-- Flutter
+## Currently Studying 
+- Vue Composition Api
+- Pinia
+- Laravel
