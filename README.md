@@ -31,5 +31,5 @@
 
 ## Currently Studying 
 - Vue Composition Api
-- Pinia
-- Laravel
+- ReactJs
+- Laravel Splade
