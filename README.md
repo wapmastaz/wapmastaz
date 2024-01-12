@@ -31,5 +31,5 @@
 
 ## Currently Studying 
 - Vue Composition Api
-- ReactJs
-- Laravel Splade
+- Laravel Ecosystem 
+- React Native
