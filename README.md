@@ -20,7 +20,9 @@
 ![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-NextJs-informational?style=flat&logo=nextJs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Vuetify-informational?style=flat&logo=vuetify&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
@@ -30,6 +32,6 @@
 ![](https://img.shields.io/badge/Platform-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=2bbc8a)
 
 ## Currently Studying 
-- Vue Composition Api
-- Laravel Ecosystem 
+- NextJs
+- React Redux 
 - React Native
